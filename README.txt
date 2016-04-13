@@ -1,9 +1,4 @@
-CS 338-001 Winter 2015-16, Drexel University
-Prof. Erin Solovey
 
-Author: Akshay Sharma
-Email: akshay@akshay.tech
-Name: ParkAlert
 ------------------------------------------------------------------------
 
 README
@@ -28,7 +23,3 @@ IMPORTANT:
 
 - Simply place all the files on the server the application should work!
 - You may need to edit the 'domain' ('From' email address) provided in the text.php file.
-
-OR, DEMO IT DIRECTLY FROM:
-http://akshaysharma.net/cs338/demo
-(Guaranteed to function until at least end of Week 10 of Winter 2015-16 quarter)
